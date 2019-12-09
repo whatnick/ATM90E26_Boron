@@ -1,0 +1,5 @@
+# Build files
+target/*
+
+# Auto-generated source file
+ATM90E26_Boron.cpp
